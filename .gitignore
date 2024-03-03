@@ -59,9 +59,6 @@ buck-out/
 *.jsbundle
 
 # CocoaPods
-/ios/Pods/
-/ios/
-/android/
 gradle.properties
 /node_modules/
 yarn.lock
